@@ -4,7 +4,7 @@ body {
     background-image: url(./Galaxy.JPG);
     height: 100%;
     width: 100%;
-    margin-top: -20px;
+    margin-top: 10px;
     font-size: 30px;
     color: white;
     text-align: center;
@@ -36,4 +36,7 @@ a {
 }
 ul, ol {
     text-align: center;
+}
+#a-Gallery {
+    font-size: 120px;
 }
